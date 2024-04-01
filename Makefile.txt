@@ -1,0 +1,9 @@
+# Compile and run Java code
+FloydsAlgorithm:
+	javac FloydsAlgorithm.java
+	java FloydsAlgorithm
+# Clean up compiled files
+clean:
+	rm *.class
+
+
